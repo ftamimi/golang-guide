@@ -12,4 +12,4 @@ source ~/.bashrc
 ```
 
 ## Verifying
-go version
+`go version`
